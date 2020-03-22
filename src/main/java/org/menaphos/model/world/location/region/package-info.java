@@ -1,0 +1,1 @@
+package org.menaphos.model.world.location.region;
